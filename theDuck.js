@@ -1,14 +1,17 @@
 let fbombTeamMates = [
-  "Adam",
-  "Leandro",
-  "Pablo",
-  "Rainer",
-  "Rui",
-  "Scott",
-  "Tony",
-  "Andy",
-  "Swapneel",
-  "Grant",
+ "Ali",
+ "Avina",
+ "Henry",
+ "Jennine",
+ "Johan",
+ "Kirill",
+ "Mattia",
+ "Pete",
+ "Rae",
+ "Sam",
+ "Sid",
+ "Thomas",
+ "Tom",
 ];
 
 const devJokes = [
