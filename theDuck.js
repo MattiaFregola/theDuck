@@ -1,16 +1,8 @@
 let fbombTeamMates = [
- "Ali",
- "Avina",
- "Henry",
- "Jennine",
- "Johan",
  "Kirill",
- "Mattia",
  "Pete",
- "Rae",
- "Sam",
- "Sid",
- "Thomas",
+ "Victor",
+ "Morris",
  "Tom",
 ];
 
