@@ -5,7 +5,7 @@ body {
   margin: 0 auto;
   max-width: 960px;
   line-height: 1.65em;
-  background: #009447;
+  background: #402088;
   color: #fff;
   font-weight: 300;
   width: 100vw;
@@ -78,7 +78,7 @@ h1 {
 
 #theDuck:hover {
   background-color: #ffffff;
-  color: #009447;
+  color: #402088;
   top:-1px;
   box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.1);
 }
